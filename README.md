@@ -6,10 +6,10 @@ I used python beacuse its a simple and flexible oop language with very good synt
 In my case I used python 3.4
 
 modules used:
-csv module
+csv module - 
 its a built-in python module for handling csv files
 
-shutil module
+shutil module - 
 a python module for file handling
 
 # description
