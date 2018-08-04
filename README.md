@@ -5,7 +5,7 @@ jumo coding question
 I used python beacuse its a simple and flexible oop language with very good syntax and amazing modules.
 In my case I used python 3.4
 
-modules used:
+# modules used
 csv module - 
 its a built-in python module for handling csv files
 
