@@ -21,6 +21,8 @@ def csv_handler(input_filename,output_filename):
 	with open(output_filename,'a',newline='') as output_csv:
 		writer = csv.DictWriter(output_csv,fieldnames=['MSISDN','Network','Date','Product','Amount'])
 		writer.writerow({'MSISDN':'','Network':'','Date':'','Product':loan_count,'Amount':loan_total})
+		
+	return True
 
 
 if __name__=="__main__":
